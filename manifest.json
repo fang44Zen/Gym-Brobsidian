@@ -1,0 +1,10 @@
+{
+	"id": "GymBrobsidian",
+	"name": "GymBrobsidian",
+	"version": "1.0.0",
+	"minAppVersion": "0.9.12",
+	"description": "A plugin to log gym exercises in Obsidian.",
+	"author": "F. Lyons",
+	"authorUrl": "https://github.com/fang44Zen",
+	"isDesktopOnly": false
+}
